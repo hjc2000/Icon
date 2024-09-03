@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Icon", "Icon\Icon.csproj", "{A731F420-3141-4DB4-8102-EFC1C8EFC46C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A731F420-3141-4DB4-8102-EFC1C8EFC46C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A731F420-3141-4DB4-8102-EFC1C8EFC46C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A731F420-3141-4DB4-8102-EFC1C8EFC46C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A731F420-3141-4DB4-8102-EFC1C8EFC46C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FA883B2-68DE-4F2E-9FD2-C64643000F40}
+	EndGlobalSection
+EndGlobal
