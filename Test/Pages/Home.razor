@@ -1,7 +1,13 @@
 ﻿@page "/"
 
-<PageTitle>Home</PageTitle>
+<div class="root">
+	<RazorUI.表单.FormTable HeadBorderBottom="unset">
+		<Body>
+			<Icon.Terminal></Icon.Terminal>
+			<div>终端</div>
 
-<h1>Hello, world!</h1>
-
-Welcome to your new app.
+			<Icon.Database></Icon.Database>
+			<div>数据库</div>
+		</Body>
+	</RazorUI.表单.FormTable>
+</div>
