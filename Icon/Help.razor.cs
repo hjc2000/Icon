@@ -2,6 +2,9 @@
 
 namespace Icon;
 
+/// <summary>
+///		帮助图标
+/// </summary>
 public partial class Help
 {
 	/// <summary>
